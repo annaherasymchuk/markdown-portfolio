@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Thing no one 🌴
+- Thing no two 🖤
+- Thing no three 🌇
+  - Subitem 🌟
+  - Subitem 🤦
